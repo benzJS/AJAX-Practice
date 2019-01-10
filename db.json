@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "first_name": "SomeOne",
+      "email": "anonymous@undefined.null",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Gauthier Pheby",
+      "email": "gpheby2@columbia.edu",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "first_name": "Shawn Necolds",
+      "email": "snecolds3@marketwatch.com",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "first_name": "Gearalt Twiddle",
+      "email": "gtwiddle5@tiny.cc",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "first_name": "Dominique Heymann",
+      "email": "dheymann6@weather.com",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "first_name": "Klara O'Hickee",
+      "email": "kohickee7@fotki.com",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Claire Dowman",
+      "email": "cdowman8@ftc.gov",
+      "gender": "Male"
+    },
+    {
+      "first_name": "benznt",
+      "email": "tmno2tm@gmail.com",
+      "gender": "Male",
+      "id": 14
+    },
+    {
+      "first_name": "BenZ",
+      "email": "benzgtastunting@gmail.com",
+      "gender": "Male",
+      "id": 15
+    }
+  ]
+}
